@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "id": "f9e9911aff65ab2e",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "5043751e9e934023",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": false,
+        "info": "",
+        "env": []
+    }
+]
