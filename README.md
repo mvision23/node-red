@@ -1,7 +1,7 @@
-first-project
+first-project 
 =============
 
-demo-project
+demo-project-Loukas
 
 ### About
 
