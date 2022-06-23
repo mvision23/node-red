@@ -14,5 +14,16 @@
         "disabled": false,
         "info": "",
         "env": []
+    },
+    {
+        "id": "4a6cace750abb1f1",
+        "type": "link out",
+        "z": "f9e9911aff65ab2e",
+        "name": "",
+        "mode": "link",
+        "links": [],
+        "x": 505,
+        "y": 200,
+        "wires": []
     }
 ]
